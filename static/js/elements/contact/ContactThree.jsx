@@ -23,7 +23,7 @@ class ContactThree extends Component{
                                 <div className="im_address_inner">
                                     <div className="im_address">
                                         <span>Contract:</span>
-                                        <a className="link im-hover" href="https://etherscan.io/address/0xeeeb024af0927e2ec0c6e146b77c722b490d6d1d">0xeeeB024Af0927e2Ec0c6e146B77C722B490D6d1d</a>
+                                        <a className="link im-hover" href="https://etherscan.io/address/0xba42d62b7ab98a4836e815b273efa97896665878">0xba42d62b7ab98a4836e815b273efa97896665878</a>
                                     </div>
                                     <div className="im_address">
                                         <span>Chart:</span>

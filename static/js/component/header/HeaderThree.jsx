@@ -89,7 +89,7 @@ class HeaderThree extends Component{
                             </ul>
                         </div>
                         <div className="header-btn">
-                            <a className="btn-default btn-border btn-opacity" target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=0xeeeb024af0927e2ec0c6e146b77c722b490d6d1d&use=V2">
+                            <a className="btn-default btn-border btn-opacity" target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=0xba42d62b7ab98a4836e815b273efa97896665878&use=V2">
                                 <span>buy Now</span>
                             </a>
                         </div>

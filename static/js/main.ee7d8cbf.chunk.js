@@ -304,8 +304,8 @@
                                 className: "im_address"
                             }, o.a.createElement("span", null, "Contract:"), o.a.createElement("a", {
                                 className: "link im-hover",
-                                href: "https://etherscan.io/address/0xeeeb024af0927e2ec0c6e146b77c722b490d6d1d"
-                            }, "0xeeeB024Af0927e2Ec0c6e146B77C722B490D6d1d")), o.a.createElement("div", {
+                                href: "https://etherscan.io/address/0xba42d62b7ab98a4836e815b273efa97896665878"
+                            }, "0xba42d62b7ab98a4836e815b273efa97896665878")), o.a.createElement("div", {
                                 className: "im_address"
                             }, o.a.createElement("span", null, "Max Supply:"), o.a.createElement("a", {
                                 className: "link im-hover",
